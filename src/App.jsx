@@ -308,7 +308,6 @@ function App() {
                 <li><span>✓</span> Encouragement to keep learning and building</li>
               </ul>
               <a className="button button-primary" href="https://youngandgifted.netlify.app/" target="_blank" rel="noreferrer">Explore Young & Gifted <Arrow /></a>
-              <p className="small-note">Update this section with your current cohort dates, course details, and registration status before publishing.</p>
             </div>
           </div>
         </section>
